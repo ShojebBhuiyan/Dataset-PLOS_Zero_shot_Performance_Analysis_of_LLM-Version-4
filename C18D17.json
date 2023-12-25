@@ -1,0 +1,334 @@
+{
+  "assignmentMatrix": [
+    {
+      "cellIndex": 0,
+      "d2dPairIndex": 0
+    },
+    {
+      "cellIndex": 1,
+      "d2dPairIndex": 1
+    },
+    {
+      "cellIndex": 2,
+      "d2dPairIndex": 2
+    },
+    {
+      "cellIndex": 3,
+      "d2dPairIndex": 3
+    },
+    {
+      "cellIndex": 4,
+      "d2dPairIndex": 4
+    },
+    {
+      "cellIndex": 5,
+      "d2dPairIndex": 5
+    },
+    {
+      "cellIndex": 6,
+      "d2dPairIndex": 6
+    },
+    {
+      "cellIndex": 7,
+      "d2dPairIndex": 7
+    },
+    {
+      "cellIndex": 8,
+      "d2dPairIndex": 8
+    },
+    {
+      "cellIndex": 9,
+      "d2dPairIndex": 9
+    },
+    {
+      "cellIndex": 10,
+      "d2dPairIndex": 10
+    },
+    {
+      "cellIndex": 11,
+      "d2dPairIndex": 11
+    },
+    {
+      "cellIndex": 12,
+      "d2dPairIndex": 12
+    },
+    {
+      "cellIndex": 13,
+      "d2dPairIndex": 13
+    },
+    {
+      "cellIndex": 14,
+      "d2dPairIndex": 14
+    },
+    {
+      "cellIndex": 15,
+      "d2dPairIndex": 15
+    },
+    {
+      "cellIndex": 16,
+      "d2dPairIndex": 16
+    }
+  ],
+  "cellInfo": {
+    "cells": [
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": -877.0134805144804,
+        "y_coordinate": 150.47108136401107
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 78.69555588331343,
+        "y_coordinate": 132.4058183954501
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 840.7070416296855,
+        "y_coordinate": -478.4447232844175
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 49.73694132328111,
+        "y_coordinate": 941.8927806839805
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": -140.16954501811028,
+        "y_coordinate": 650.8071535112714
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 475.50636003553,
+        "y_coordinate": -26.448361876905672
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 16.249571987471203,
+        "y_coordinate": 682.9024967817187
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 702.3380947477666,
+        "y_coordinate": 269.78890281204013
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 567.5897508376133,
+        "y_coordinate": 792.5403801869476
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": -259.53582554920627,
+        "y_coordinate": -255.29868072327974
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 621.3556241680369,
+        "y_coordinate": 610.3729663188693
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 10.306171963308541,
+        "y_coordinate": -562.758506275943
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": -567.1299171349496,
+        "y_coordinate": 368.02601212301386
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 551.5840708658505,
+        "y_coordinate": 116.13193602313254
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 131.8464726125765,
+        "y_coordinate": 646.035673466368
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 544.7465777882894,
+        "y_coordinate": -596.5581423889251
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": -96.62226816838766,
+        "y_coordinate": 198.77572207564208
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 760.909281406712,
+        "y_coordinate": -632.4155013576426
+      }
+    ],
+    "totalCells": 18
+  },
+  "d2dInfo": {
+    "d2dPairs": [
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": 12.319808283092328,
+        "receiver_y_coordinate": -942.3615640793573,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": -2.0488432221722115,
+        "transmitter_y_coordinate": -944.4511075611806
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": -194.33289972127858,
+        "receiver_y_coordinate": 489.32870531435077,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": -204.70634880624502,
+        "transmitter_y_coordinate": 482.7228603498853
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": 77.07146553109494,
+        "receiver_y_coordinate": -833.5672912530672,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": 66.10914947402118,
+        "transmitter_y_coordinate": -828.8129116920401
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": -358.6930220804493,
+        "receiver_y_coordinate": 27.585392999504865,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": -346.4505947995729,
+        "transmitter_y_coordinate": 27.792476852074575
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": -898.7805468818652,
+        "receiver_y_coordinate": -316.1330280755821,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": -894.9410746167118,
+        "transmitter_y_coordinate": -311.16427448070743
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": -693.3232756358192,
+        "receiver_y_coordinate": 212.37122751718357,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": -696.7744026952901,
+        "transmitter_y_coordinate": 211.66981751144883
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": -912.7985437620586,
+        "receiver_y_coordinate": -270.8923856180183,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": -920.3765663481325,
+        "transmitter_y_coordinate": -281.72167935636105
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": -253.91677136424929,
+        "receiver_y_coordinate": 762.7977587632136,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": -261.2925010513364,
+        "transmitter_y_coordinate": 750.751202521955
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": 181.97931916819272,
+        "receiver_y_coordinate": -519.1235722561901,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": 192.54760108598933,
+        "transmitter_y_coordinate": -508.74036850674094
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": 690.1759017122678,
+        "receiver_y_coordinate": -131.52925520091154,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": 685.5730071539343,
+        "transmitter_y_coordinate": -118.56450742109315
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": 366.74827259602296,
+        "receiver_y_coordinate": -521.6674364589461,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": 365.2289358279716,
+        "transmitter_y_coordinate": -524.3565301386436
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": -266.94406040263914,
+        "receiver_y_coordinate": 927.7831253370799,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": -269.9631983733223,
+        "transmitter_y_coordinate": 929.0305799450294
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": -821.3779002431883,
+        "receiver_y_coordinate": -328.11031589878553,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": -822.1022150114546,
+        "transmitter_y_coordinate": -322.4387370412847
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": 202.34256394310162,
+        "receiver_y_coordinate": 906.6482204817368,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": 192.34639566911727,
+        "transmitter_y_coordinate": 901.0308119529367
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": -739.044919206688,
+        "receiver_y_coordinate": -598.82866157575,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": -738.61876511775,
+        "transmitter_y_coordinate": -591.7601337678148
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": 117.04393687280928,
+        "receiver_y_coordinate": -281.25373611824256,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": 128.93081467196268,
+        "transmitter_y_coordinate": -272.42898606371875
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": 188.1539333062489,
+        "receiver_y_coordinate": 137.34178864036247,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": 177.1897366538714,
+        "transmitter_y_coordinate": 128.85328471412373
+      }
+    ],
+    "totalD2D": 17
+  },
+  "hungarian_coral_interference": 7.139303965444011e-09,
+  "hungarian_coral_sumrate": 543.8730391006478,
+  "hungarian_graph_interference": 1.975299081498971e-07,
+  "hungarian_graph_sumrate": 236.28458360105057,
+  "llm_interference": 1.97853036421315e-07,
+  "llm_sumrate": 208.19191605224339,
+  "unshared_interference": 0.0,
+  "unshared_sumrate": 531.9482290884159
+}

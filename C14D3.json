@@ -1,0 +1,142 @@
+{
+  "assignmentMatrix": [
+    {
+      "cellIndex": 0,
+      "d2dPairIndex": 0
+    },
+    {
+      "cellIndex": 5,
+      "d2dPairIndex": 1
+    },
+    {
+      "cellIndex": 10,
+      "d2dPairIndex": 2
+    }
+  ],
+  "cellInfo": {
+    "cells": [
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 36.0067440178336,
+        "y_coordinate": -425.0041533136738
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": -175.8706165583524,
+        "y_coordinate": 980.8478916451539
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 867.5692048207281,
+        "y_coordinate": 328.47740409086856
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": -371.574599924382,
+        "y_coordinate": -803.2909998152189
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 502.6320339351233,
+        "y_coordinate": 83.04055763667434
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 296.6171300716702,
+        "y_coordinate": -459.32046642781864
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": -73.52201177222193,
+        "y_coordinate": 769.468307147751
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 937.9044983949071,
+        "y_coordinate": 285.5403067711187
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": -761.7709502622985,
+        "y_coordinate": 337.1192509769773
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": -446.4214796278142,
+        "y_coordinate": -367.12444966589914
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": 340.2123832804272,
+        "y_coordinate": 193.58020119476274
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": -811.4971980162131,
+        "y_coordinate": 91.2752665916545
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": -748.5638750671403,
+        "y_coordinate": 52.30624098099835
+      },
+      {
+        "target_sinr": 0.0,
+        "transmissionPower": 20.0,
+        "x_coordinate": -488.5197134494852,
+        "y_coordinate": -486.2824776902153
+      }
+    ],
+    "totalCells": 14
+  },
+  "d2dInfo": {
+    "d2dPairs": [
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": -807.3184735167508,
+        "receiver_y_coordinate": 417.20836617996156,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": -802.374011911685,
+        "transmitter_y_coordinate": 405.9069222110213
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": 306.9813098435614,
+        "receiver_y_coordinate": 228.98402982185877,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": 295.6446416999434,
+        "transmitter_y_coordinate": 227.0347206541531
+      },
+      {
+        "receiver_target_SINR": 0.0,
+        "receiver_x_coordinate": -23.095128414501055,
+        "receiver_y_coordinate": -428.5293880062319,
+        "transmitter_transmissionPower": 20.0,
+        "transmitter_x_coordinate": -27.661600476631385,
+        "transmitter_y_coordinate": -426.7867277209977
+      }
+    ],
+    "totalD2D": 3
+  },
+  "hungarian_coral_interference": 0.0,
+  "hungarian_coral_sumrate": 404.88437427494625,
+  "hungarian_graph_interference": 3.028191525941613e-08,
+  "hungarian_graph_sumrate": 356.4100427815366,
+  "llm_interference": 3.031499066955393e-08,
+  "llm_sumrate": 344.76186419438744,
+  "unshared_interference": 0.0,
+  "unshared_sumrate": 404.88437427494625
+}
